@@ -1,8 +1,5 @@
 ---
-layout: default
-title: Home
+title: My GitHub Pages Site
 ---
 
-# Welcome to My Jekyll Site
-
-This is the home page.
+Welcome to my GitHub Pages site!
