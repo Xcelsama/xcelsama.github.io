@@ -1,5 +1,8 @@
 ---
-title: My GitHub Pages Site
+layout: default
+title: Home
 ---
 
-Welcome to my GitHub Pages site!
+# Welcome to my Website
+
+This is the home page.
