@@ -1,1 +1,8 @@
-Hey, Welcome to my Website
+---
+layout: default
+title: Home
+---
+
+# Welcome to My Jekyll Site
+
+This is the home page.
